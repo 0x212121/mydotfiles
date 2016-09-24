@@ -1,0 +1,8 @@
+style "Numix"
+{
+    font_name = "Ubuntu 8"
+}
+widget_class "*" style "Numix"
+gtk-font-name = "terminus 9"
+gtk-theme-name = "Numix"
+gtk-icon-theme-name = "Numix"
